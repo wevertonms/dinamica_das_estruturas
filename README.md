@@ -15,8 +15,8 @@
 </center>
 
 Baixe a solução do formato:
-  - [jupyter notebook](Lista de exercícios 3.ipynb)
-  - [pdf](Lista de exercícios 3.pdf)
-  - [slides em html](Lista de exercícios 3.slides.html)
+  - [jupyter notebook](./Lista de exercícios 3.ipynb)
+  - [pdf](./Lista de exercícios 3.pdf)
+  - [slides em html](./Lista de exercícios 3.slides.html)
  
 Ou visualize no [binder]()
