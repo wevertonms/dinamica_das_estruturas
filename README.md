@@ -14,8 +14,8 @@
 28 de janeiro de 2019
 
 Baixe a solução do formato:
-  - [Jupyter notebook](Lista_de_exercícios-3.ipynb)
-  - [PDF](Lista_de_exercícios-3.pdf)
+  - [Jupyter notebook](Lista_de_exercícios_3.ipynb)
+  - [PDF](Lista_de_exercícios_3.pdf)
   - [Slides em html](Lista_de_exercícios_3.slides.html)
  
 Ou visualize no [binder](sdasdzd_fasd)
