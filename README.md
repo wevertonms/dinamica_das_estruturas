@@ -18,4 +18,4 @@ Baixe a solução do formato:
   - [PDF](Lista_de_exercícios_3.pdf)
   - [Slides em html](Lista_de_exercícios_3.slides.html)
  
-Ou visualize no [binder](sdasdzd_fasd)
+Ou visualize no: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wevertonms/dinamica_das_estruturas/master)
