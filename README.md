@@ -1,22 +1,21 @@
-<center>
-    <b>Universidade Federal de Alagoas - UFAL</b>
-    <br>
-    <b>Centro de Tecnologia - CTEC </b>
-    <br>
-    <b>Programa de Pós-Graduação em Engenharia Civil - PPGEC</b>
-    <br>
-    <h2>Dinâmica de estruturas</h2>
-    <br>
-    <center><h1>Lista de exercícios 3</h1>
-    <br>
-    <center><b>Weverton Marques da Silva</b>
-    <br>
-    <center>28 de janeiro de 2019
-</center>
+
+### Universidade Federal de Alagoas - UFAL
+
+### Centro de Tecnologia - CTEC
+
+### Programa de Pós-Graduação em Engenharia Civil - PPGEC
+
+### Dinâmica de estruturas
+
+# Lista de exercícios 3
+
+**Weverton Marques da Silva**
+
+28 de janeiro de 2019
 
 Baixe a solução do formato:
-  - [jupyter notebook](./Lista de exercícios 3.ipynb)
-  - [pdf](./Lista de exercícios 3.pdf)
-  - [slides em html](./Lista de exercícios 3.slides.html)
+  - [Jupyter notebook](Lista_de_exercícios-3.ipynb)
+  - [PDF](Lista_de_exercícios-3.pdf)
+  - [Slides em html](Lista_de_exercícios_3.slides.html)
  
-Ou visualize no [binder]()
+Ou visualize no [binder](sdasdzd_fasd)
